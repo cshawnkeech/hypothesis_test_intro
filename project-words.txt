@@ -1,13 +1,10 @@
-# common abbreviated variable names
-
-# matplotlib words
 axvline
+binom
+binomtest
 figsize
 infty
 linestyle
-
+pvalue
+Senn
 xlim
 ylim
-
-# names & other
-Senn
