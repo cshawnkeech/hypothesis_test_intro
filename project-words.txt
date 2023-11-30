@@ -1,0 +1,13 @@
+# common abbreviated variable names
+
+# matplotlib words
+axvline
+figsize
+infty
+linestyle
+
+xlim
+ylim
+
+# names & other
+Senn
