@@ -8,7 +8,8 @@ Students should be familiar with
   normal distributions
 * population and sampling distributions including their differences
 * The law of large numbers and central limit theorem
-* Scipy.stats implementations of distributions
+* Scipy.stats implementations of distributions (specifically
+  `scipy.stats.binom`)
 
 Start with binomial tests, briefly hint future tests.
 
